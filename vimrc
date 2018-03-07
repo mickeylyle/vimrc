@@ -4,3 +4,5 @@ set softtabstop=4
 set smarttab
 set expandtab
 set nobackup
+set autoindent
+set number
