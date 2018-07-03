@@ -6,3 +6,5 @@ set expandtab
 set nobackup
 set autoindent
 set number
+set hlsearch
+nnoremap <silent> <C-l> :<C-u>nohlsearch<CR><C-l>
